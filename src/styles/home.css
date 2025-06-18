@@ -84,7 +84,7 @@ section#home {
     
 }
 
-@media screen and (max-width: 450px) { 
+@media screen and (max-width: 471px) { 
     #phone-text{
         display: none;
     }
