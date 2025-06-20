@@ -1,7 +1,6 @@
 section#home {
     display: flex;
     min-height: calc(99vh - 96px); /* fazer calculo porque quero que ocuper apartir da navbar, descontar ela. */
-    scroll-margin-top: 96px;
     position: relative;
 }
 
